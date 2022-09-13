@@ -1,2 +1,0 @@
-# BerenElitas
-Patikadev
